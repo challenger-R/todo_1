@@ -62,3 +62,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'font-awesome-sass' #フォントアイコンを使用するため
+gem 'devise' #ログイン機能
